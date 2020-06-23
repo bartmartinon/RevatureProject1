@@ -1,7 +1,8 @@
 # RevatureProject1
-Revature Project 1 - Business Problem Project with Kira Herb
+Revature Project 1 - Shelter Web - Business Problem Project with Kira Herb
 
 Shelter Web
+
 A web application developed to help animal shelters with the pet adoption process. In the application shelter staff can manage the animal directory sorting animals by species, gender, and age and track the animal adoption process. Visitors can use the system to search for animals and begin the adoption process.
 
 Roles / Responsibilities
